@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/go_testing:a2dbf73",
-  "display_name": "Go, testing",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_testing:cdd49cb",
+  "display_name": "Go 1.23, testing",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
