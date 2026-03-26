@@ -1,11 +1,12 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/go_testing:248a3e3",
-  "display_name": "Go 1.23.5, testing",
+  "display_name": "Go 1.26.1, testing",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_testing:31f3d77",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".go"
   ],
