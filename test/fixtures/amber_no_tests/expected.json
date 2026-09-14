@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "\\[no test files\\]$": 1,
+    "^PASS$": 0,
+    "^FAIL": 0
+  }
+}

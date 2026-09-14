@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^--- FAIL: Test_": 1,
+    "^--- FAIL: Test_answer_is_three_digits ": 1,
+    "^ +answer_size_test\\.go:[0-9]+: answer: have 42; want: three digits$": 1,
+    "^FAIL$": 1,
+    "^FAIL[[:space:]]": 1,
+    "^PASS$": 0
+  }
+}

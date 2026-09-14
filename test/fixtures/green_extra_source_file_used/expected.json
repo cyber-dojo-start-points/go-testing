@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 8,
+  "match_counts": {
+    "^PASS$": 1,
+    "^ok[[:space:]]": 1,
+    "^--- FAIL: ": 0
+  }
+}
